@@ -1,4 +1,4 @@
-# LAB - Class 3126
+# LAB - Class 31
 
 ## Project: 401-images-app
 
@@ -11,7 +11,7 @@
 
 ### picture for the application
 
-![image]()
+![image](./graph01.png)
 
 <br>
 
