@@ -1,4 +1,13 @@
-# Getting Started with Create React App
+# LAB - Class 3126
+
+## Project: 401-images-app
+
+## Author: Walaa' Atiyh
+
+## Object :This application will allow you to like any image and to see the total number of likes for all images
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

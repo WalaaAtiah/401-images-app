@@ -1,0 +1,20 @@
+.headernav ,.footerdiv{
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+  }
+  
+.footerdiv{
+    display: flex;
+    justify-content:left;
+    gap: 30px;
+    background-color:darkgreen;
+    margin-top: 20px;
+    color: aliceblue;
+    padding-left: 50px;
+    padding-top: 5px;
+  }
+  
+  .b{
+    color: aliceblue;
+  }
