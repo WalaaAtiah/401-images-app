@@ -4,7 +4,16 @@
 
 ## Author: Walaa' Atiyh
 
-## Object :This application will allow you to like any image and to see the total number of likes for all images
+### Object :This application will allow you to like any image and to see the total number of likes for all images
+
+
+### [Pull requests](https://github.com/WalaaAtiah/401-images-app/pull/1)
+
+### picture for the application
+
+![image]()
+
+<br>
 
 
 ## Getting Started with Create React App
