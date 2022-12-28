@@ -1,0 +1,25 @@
+.row{
+  position: relative;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+  display: table;
+  transform: translate3d(0, 0, 0);
+  z-index: 200;
+  border: 1px solid ;
+  padding: 30px;
+  margin: 30px;
+  
+}
+
+.card{
+    margin: 20px;
+
+}
+h3{
+    margin: 20px;
+    padding: 20px;
+}
+.img{
+    height: 200px;
+}
